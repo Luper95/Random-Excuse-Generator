@@ -3,7 +3,7 @@
 body{
     background: white;
 }
-div{
+div, h1{
     max-width: fit-content;
     margin-left: auto;
     margin-right: auto;
